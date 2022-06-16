@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on coarse goals and philosophy, meeting times, projects and assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
