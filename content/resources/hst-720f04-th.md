@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: A diagram of the human cochlea of the inner ear.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Human Inner Ear (thumbnail)
 uid: ed0b4d9c-5411-1d75-0747-8263786639ce
 ---
 The human inner ear. (Figure by MIT OCW.)
-
