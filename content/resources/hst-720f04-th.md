@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The human inner ear. (Figure by MIT OCW.)
-file: /ol-ocw-studio-app/courses/hst-720-physiology-of-the-ear-fall-2004/ed0b4d9c54111d7507478263786639ce_hst-720f04-th.jpg
+file: /courses/hst-720-physiology-of-the-ear-fall-2004/ed0b4d9c54111d7507478263786639ce_hst-720f04-th.jpg
 file_size: 12838
 file_type: image/jpeg
 image_metadata:
